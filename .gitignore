@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+parcial1_PM1/Content/Level/LevelA.umap
+parcial1_PM1/Content/Level/LevelA.umap
+parcial1_PM1/Saved/AutoScreenshot.png
+parcial1_PM1/Saved/Config/CrashReportClient/UE4CC-Windows-F0830B97492390FE91AB85BF873C5FA7/CrashReportClient.ini
+*.log
+*.ini
+*.uasset
+*.log
+*.log
+*.ini

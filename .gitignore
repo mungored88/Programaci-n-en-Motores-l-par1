@@ -84,3 +84,6 @@ parcial1_PM1/Saved/Config/CrashReportClient/UE4CC-Windows-F0830B97492390FE91AB85
 *.ini
 *.png
 *.bin
+*.log
+*.bin
+*.log

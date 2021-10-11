@@ -72,10 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-parcial1_PM1/Content/Level/LevelA.umap
-parcial1_PM1/Content/Level/LevelA.umap
-parcial1_PM1/Saved/AutoScreenshot.png
-parcial1_PM1/Saved/Config/CrashReportClient/UE4CC-Windows-F0830B97492390FE91AB85BF873C5FA7/CrashReportClient.ini
+
 *.log
 *.ini
 *.uasset
@@ -87,4 +84,5 @@ parcial1_PM1/Saved/Config/CrashReportClient/UE4CC-Windows-F0830B97492390FE91AB85
 *.log
 *.bin
 *.log
-parcial1_PM1/Saved/Logs/parcial1_PM1-backup-2021.09.30-22.49.46.log
+parcial1_PM1/Saved/*
+

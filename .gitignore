@@ -73,16 +73,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-*.log
-*.ini
-*.uasset
-*.log
-*.log
-*.ini
-*.png
-*.bin
-*.log
-*.bin
-*.log
+
 parcial1_PM1/Saved/*
 
